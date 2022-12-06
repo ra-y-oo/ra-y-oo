@@ -1,11 +1,13 @@
 <h1 align="center">Hi 👋, I'm Ryan</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ra-y-oo" alt="ra-y-oo" /></a> </p>
+<p align="left"> <a href="https://twitter.com/_ray00_" target="blank"><img src="https://img.shields.io/twitter/follow/_ray00_?logo=twitter&style=for-the-badge" alt="_ray00_" /></a> </p>
 
 - 🌱 I’m currently learning **Backend dev**
 
 - 👯 I’m looking to collaborate on **any frontend projects**
+
+- 👨‍💻 All of my projects are available at [https://ra-y-oo.github.io/my_portfolio/](https://ra-y-oo.github.io/my_portfolio/)
 
 - 💬 Ask me about **HTML,CSS and Python**
 
@@ -15,6 +17,7 @@
 <p align="left">
 <a href="https://codepen.io/_ray00_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="_ray00_" height="30" width="40" /></a>
 <a href="https://twitter.com/_ray00_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_ray00_" height="30" width="40" /></a>
+<a href="https://kaggle.com/ryanomoro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="ryanomoro" height="30" width="40" /></a>
 <a href="https://instagram.com/rayoo_codes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rayoo_codes" height="30" width="40" /></a>
 </p>
 
