@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ryan</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
-<p align="left"> <a href="https://twitter.com/_ray00_" target="blank"><img src="https://img.shields.io/twitter/follow/_ray00_?logo=twitter&style=for-the-badge" alt="_ray00_" /></a> </p>
-
 - 🌱 I’m currently learning **Backend dev**
 
 - 👯 I’m looking to collaborate on **any frontend projects**
