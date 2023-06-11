@@ -5,7 +5,7 @@
 
 - 👯 I’m looking to collaborate on **any frontend projects**
 
-- 👨‍💻 All of my projects are available at [https://ra-y-oo.github.io/my_portfolio/](https://ra-y-oo.github.io/my_portfolio/)
+- 👨‍💻 All of my projects are available at [https://ra-y-oo.github.io/my_portfolio/](https://ra-y-oo.github.io/my_work/)
 
 - 💬 Ask me about **HTML,CSS and Python**
 
