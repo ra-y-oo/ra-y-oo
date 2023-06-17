@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **ryanomoro37@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/14JiLQ4c35blx_cWqFibcMD2MbcpisZm15yfabKWFdKg/edit?usp=sharing](https://docs.google.com/document/d/14JiLQ4c35blx_cWqFibcMD2MbcpisZm15yfabKWFdKg/edit?usp=sharing)
+- 📄 Know about my experiences [resume](https://docs.google.com/document/d/14JiLQ4c35blx_cWqFibcMD2MbcpisZm15yfabKWFdKg/edit?usp=sharing)
 
 - ⚡ Fun fact **Did you know hippo's milk is pink**
 
