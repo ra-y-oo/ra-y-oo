@@ -13,8 +13,6 @@
 
 - 📄 Know about my experiences [resume](https://docs.google.com/document/d/14JiLQ4c35blx_cWqFibcMD2MbcpisZm15yfabKWFdKg/edit?usp=sharing)
 
-- ⚡ Fun fact **Did you know hippo's milk is pink**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/@_ray00_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="@_ray00_" height="30" width="40" /></a>
