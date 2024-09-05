@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React, Vue**
 
-- 👨‍💻 All of my projects are available at [https://ra-y-oo.github.io/my_work/](https://ra-y-oo.github.io/my_work/)
+- 👨‍💻 All of my projects are available at [my portfolio](https://ray00.vercel.app)
 
 - 💬 Ask me about **Python, JavaScript and web development**
 
