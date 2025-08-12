@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ra-y-oo&label=Profile%20views&color=0e75b6&style=flat" alt="ra-y-oo" /> </p>
 
-- 🌱 I’m currently learning **React, Vue**
+- Astro developer
 
 - 👨‍💻 All of my projects are available at [my portfolio](https://ray00.vercel.app)
 
