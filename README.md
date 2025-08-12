@@ -15,10 +15,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/@_ray00_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="@_ray00_" height="30" width="40" /></a>
 <a href="https://twitter.com/@_ray00_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@_ray00_" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/webbyrayoo/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/webbyrayoo/" height="30" width="40" /></a>
-<a href="https://instagram.com/webbyrayoo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="webbyrayoo" height="30" width="40" /></a>
+<a href="https://instagram.com/design.surrealtech" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="webbyrayoo" height="30" width="40" /></a>
 <a href="https://dribbble.com/Rayoo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="rayoo" height="30" width="40" /></a>
-<a href="https://www.behance.net/omororyan7967" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="https://www.behance.net/omororyan7967" height="30" width="40" /></a>
+<a href="https://www.behance.net/webbyrayoo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="https://www.behance.net/webbyrayoo" height="30" width="40" /></a>
 </p>
